@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Karthikraut
 - 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking to collaborate on Javascript Projects
 - 📫 How to reach me karthikraut2@gmail.com
 
 <!---
