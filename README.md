@@ -1,4 +1,4 @@
-<img src="https://github.com/Karthikraut/Karthikraut/blob/main/Karthik%20Raut.png" alt="logo" width="1000" height="auto">
+
 <h1 align="center">Hi 👋, I'm Karthik Raut</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
