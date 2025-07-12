@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Karthik Raut</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikraut&label=Profile%20views&color=0e75b6&style=flat" alt="karthikraut" /> </p>
 
-- 🌱 I’m currently learning **NextJs, Data Science**
+- 🌱 Proficient in **NextJs, ReactJs, NodeJs, ExpressJs**
 
 - 👨‍💻 All of my projects are available at **https://karthikraut.github.io/PortfolioWebsite/**
 
 - 💬 Ask me about **ReactJs, Redux, Tailwind CSS, Backend, Express, NodeJs**
 
 - 📫 How to reach me **karthikraut2@gmail.com**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1t7PBaVEJw5EkxFplnD0vuCCsBZQLhNTd/view?usp=drive_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
