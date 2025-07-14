@@ -16,8 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/karthik-raut-b5a6a7243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthik-raut-b5a6a7243" height="30" width="40" /></a>
 <a href="https://instagram.com/karthikraut_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikraut_13" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karthikraut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karthikraut" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/karthikraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karthikraut" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alchemist_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alchemist_karthik" height="30" width="40" /></a>
 </p>
 
