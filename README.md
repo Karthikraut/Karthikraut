@@ -1,16 +1,31 @@
-
 <h1 align="center">Hi 👋, I'm Karthik Raut</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">Final Year Computer Engineering Student | MERN Stack Developer | Competitive Programmer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Smart+India+Hackathon+2024+Finalist;Full-stack+Web+Developer;Competitive+Programmer;TechZooka+Summit+Invitee" alt="Typing SVG" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikraut&label=Profile%20views&color=0e75b6&style=flat" alt="karthikraut" /> </p>
 
-- 🌱 Proficient in **NextJs, ReactJs, NodeJs, ExpressJs**
+---
 
+## 🚀 About Me
+
+- 🎓 Final Year B.E. (Computer Engineering), **D.Y. Patil College of Engineering, Pune**
+- 🏆 **Smart India Hackathon 2024 Finalist** 
+- 💻 Full Stack Developer experienced with **MERN stack**, MVC, APIs
+- 🎯 Solved **600+ DSA problems** on LeetCode
+- 🌟 Interned at Worqhat — built scalable Frontend
+- 🌟 Interned at Growloc Pvt. Ltd. — built scalable backends and worked on Mixpanel and WATI API
+- 👨‍🏫 DSA-CP Core Member@GDSC, DYPCOE | Led 10+ coding events | Mentored 50+ juniors
+- 👨‍🏫 Technical Core Member@ACES, DYPCOE | Led 5+ coding events | Mentored 50+ juniors
 - 👨‍💻 All of my projects are available at **https://karthikraut.github.io/PortfolioWebsite/**
-
-- 💬 Ask me about **ReactJs, Redux, Tailwind CSS, Backend, Express, NodeJs**
-
 - 📫 How to reach me **karthikraut2@gmail.com**
+- 💬 Ask me about **ReactJs, Redux, Tailwind CSS, Backend, Express, NodeJs**
+  
+- 📌 Passionate about **DSA, scalable systems, real-world problem-solving**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
